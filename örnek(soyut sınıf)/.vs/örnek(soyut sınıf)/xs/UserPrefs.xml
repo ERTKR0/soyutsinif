@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AC5EF19E-09D5-458C-85FA-7E9D726E893E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="örnek(soyut sınıf)/Program.cs">
+    <Files>
+      <File FileName="örnek(soyut sınıf)/Program.cs" Line="152" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="örnek(soyut sınıf)" expanded="True">
+            <Node name="örnek(soyut sınıf)" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.örnek_228soyut_220sınıf_229 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
